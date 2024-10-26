@@ -1,2 +1,7 @@
-# ecobalance
-Repositorio que contiene todo el código para el proyecto de ExpoAndes. Ecobalance es un dispositivo que controla la temperatura y humedad de un terrario.
+# Bluetooth Starter
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
